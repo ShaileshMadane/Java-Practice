@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+out/
+!Number Guessing Game/src/main/**/out/
+!Number Guessing Game/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!Number Guessing Game/src/main/**/bin/
+!Number Guessing Game/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store

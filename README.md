@@ -7,9 +7,12 @@ This repository contains the Java projects I build while learning Java. Each pro
 * ✅ Number Guessing Game
 * ✅ Email Slicer
 * ✅ Banking Program
+* ✅ Dice Roller 🎲
 
 More Java practice projects will be added as I continue learning. 🚀
 
 ## 🎯 Goal
 
 To strengthen my Java fundamentals by building small projects and gradually progressing toward more complex applications.
+
+⭐ More projects coming as I continue my Java learning journey!

@@ -8,6 +8,7 @@ This repository contains the Java projects I build while learning Java. Each pro
 * ✅ Email Slicer
 * ✅ Banking Program
 * ✅ Dice Roller 🎲
+* ✅ Slot Machine 🎰
 
 More Java practice projects will be added as I continue learning. 🚀
 
